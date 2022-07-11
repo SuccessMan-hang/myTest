@@ -21,4 +21,8 @@ public class UserController {
     public void debase(){
         System.out.println("debase");
     }
+
+    public void debase1(){
+        System.out.println("debase2");
+    }
 }
