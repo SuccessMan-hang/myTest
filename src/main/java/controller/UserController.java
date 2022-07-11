@@ -29,4 +29,8 @@ public class UserController {
     public void chy(){
         System.out.println("chy is pig");
     }
+
+    public void chys(){
+        System.out.println("chy is pig");
+    }
 }
