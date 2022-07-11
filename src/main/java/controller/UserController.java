@@ -25,4 +25,8 @@ public class UserController {
     public void debase1(){
         System.out.println("debase2");
     }
+
+    public void chy(){
+        System.out.println("chy is pig");
+    }
 }
