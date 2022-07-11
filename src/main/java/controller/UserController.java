@@ -9,4 +9,8 @@ public class UserController {
     public void hello(){
         System.out.println("hello ");
     }
+
+    public void get(){
+        System.out.println("get ");
+    }
 }
