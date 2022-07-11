@@ -17,4 +17,8 @@ public class UserController {
     public void  hello(){
         System.out.println("Xxxxx");
     }
+
+    public void debase(){
+        System.out.println("debase");
+    }
 }
